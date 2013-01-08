@@ -83,6 +83,6 @@ $headers = 'From: '.$email_from."\r\n".
 <?php
 }
 //include "index.html";
-header("Location: http://mattgenovese.net/index.html?m=1");
+header("Location: http://www.mattgenovese.net/index.html?m=1");
 die();
 ?>
